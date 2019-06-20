@@ -1,7 +1,6 @@
 
 # Created by https://www.gitignore.io/api/node
 # Edit at https://www.gitignore.io/?templates=node
-.gitignore
 
 
 ### Node ###
@@ -44,6 +43,7 @@ bower_components
 build/Release
 
 # Dependency directories
+node_modules/
 node_modules/
 jspm_packages/
 
