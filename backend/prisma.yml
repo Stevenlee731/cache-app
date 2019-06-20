@@ -1,0 +1,6 @@
+endpoint: https://us1.prisma.sh/steven-lee-336cad/cache-app/dev
+datamodel: datamodel.prisma
+
+generate:
+  - generator: javascript-client
+    output: ./generated/prisma-client/
